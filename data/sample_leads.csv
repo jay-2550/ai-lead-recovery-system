@@ -1,0 +1,6 @@
+
+lead_id,name,service,enquiry_date,last_contact_date,status,next_followup_date,consent_status,notes
+L001,Rahul,Website design,2026-10-25,2026-10-25,Contacted,2026-10-27,Yes,Sample lead
+L002,Priya,SEO service,2026-10-26,2026-10-26,Interested,2026-10-29,Yes,Sample lead
+L003,Amit,Website design,2026-10-24,2026-10-24,No response,2026-10-27,No,Opt-out test
+L004,Neha,Marketing,2026-10-28,2026-10-28,New,2026-10-31,Yes,Future follow-up
